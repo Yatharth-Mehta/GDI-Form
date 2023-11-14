@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI Form", "Darkside Form\GUI Form.csproj", "{3AF89E46-A00B-416D-AFB6-F8AE49F820C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI FormTests", "GUI FormTests\GUI FormTests.csproj", "{1306742C-E888-41A7-915E-48B703BFB629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF89E46-A00B-416D-AFB6-F8AE49F820C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF89E46-A00B-416D-AFB6-F8AE49F820C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF89E46-A00B-416D-AFB6-F8AE49F820C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF89E46-A00B-416D-AFB6-F8AE49F820C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1306742C-E888-41A7-915E-48B703BFB629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1306742C-E888-41A7-915E-48B703BFB629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1306742C-E888-41A7-915E-48B703BFB629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1306742C-E888-41A7-915E-48B703BFB629}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B5EDFB9-71CA-47C4-A4F7-DC168382F1E4}
+	EndGlobalSection
+EndGlobal
