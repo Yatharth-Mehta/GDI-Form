@@ -15,7 +15,7 @@ namespace Darkside_Form.Tests
         [ExpectedException(typeof(ArgumentNullException), "The Exception not found")]
         public void TriangleTest()
         {
-            Triangle tr = new Triangle(null ,null);
+            Triangle triang = new Triangle(null ,null);
         }
     }
 }
